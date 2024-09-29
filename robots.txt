@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://buucfh.github.io/YUA/sitemap.YUA.gz
